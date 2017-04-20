@@ -1,0 +1,9 @@
+C:\Users\ahmad\Desktop\updateInsertDelete\updateInsertDelete\bin\Debug\updateInsertDelete.exe.config
+C:\Users\ahmad\Desktop\updateInsertDelete\updateInsertDelete\bin\Debug\updateInsertDelete.exe
+C:\Users\ahmad\Desktop\updateInsertDelete\updateInsertDelete\bin\Debug\updateInsertDelete.pdb
+C:\Users\ahmad\Desktop\updateInsertDelete\updateInsertDelete\obj\Debug\updateInsertDelete.csprojResolveAssemblyReference.cache
+C:\Users\ahmad\Desktop\updateInsertDelete\updateInsertDelete\obj\Debug\updateInsertDelete.Form1.resources
+C:\Users\ahmad\Desktop\updateInsertDelete\updateInsertDelete\obj\Debug\updateInsertDelete.Properties.Resources.resources
+C:\Users\ahmad\Desktop\updateInsertDelete\updateInsertDelete\obj\Debug\updateInsertDelete.csproj.GenerateResource.Cache
+C:\Users\ahmad\Desktop\updateInsertDelete\updateInsertDelete\obj\Debug\updateInsertDelete.exe
+C:\Users\ahmad\Desktop\updateInsertDelete\updateInsertDelete\obj\Debug\updateInsertDelete.pdb
